@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mobile Recharge Commission App</string>
+    <string name="app_package_name">com.FreeRechargeApp</string>
+    <string name="next_root_url">https://next.mobirec.in/</string>
+    <string name="yesUdtDscptn">
+A fresh release (v6.3.1.62) has been published on the Play Store! Update now to enjoy smoother performance, newly added features, and improved stability. We’ve worked hard to resolve previous issues in this version. For feedback or assistance, feel free to write us at support@mobirec.in. We truly appreciate your support!
+</string>
+
+    <string name="YESUdtDscptn">
+The latest build (v6.3.1.62) is now live on the Play Store. Older versions may no longer function properly due to technical reasons, so upgrading is required. This update brings enhanced performance, new functionality, and fixes for past problems. If you need help or wish to share your suggestions, reach us anytime at support@mobirec.in. Thank you for being part of our community!
+</string>
+    <string name="default_notification_channel_id">Notification</string>
+    <string name="no_internet">Please check your internet connection and try again</string>
+</resources>

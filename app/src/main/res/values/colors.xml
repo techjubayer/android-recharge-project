@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Google Play Store Colors -->
+    <color name="logo_color">#1976D2</color>
+    <color name="logo_color_dark">#032F57</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Modern UI Colors -->
+    <color name="primary_blue">#1976D2</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <!-- Text Colors -->
+
+    <!-- Background Colors -->
+
+    <!-- Button Colors -->
+
+    <!-- Ripple Effects -->
+    <color name="ripple_blue">#1976D2</color>
+    <color name="ripple_white">#FFFFFF</color>
+
+</resources>
